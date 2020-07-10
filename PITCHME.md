@@ -1,7 +1,7 @@
 # plen-search
 ### プレンかくれんぼ
 
-
+theme : sky
 
 
 
