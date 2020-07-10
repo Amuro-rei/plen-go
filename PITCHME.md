@@ -18,8 +18,16 @@
 
 ### 大阪ハイテクノロジーplen企画
 
+var str1 = 'hello world';
+var flag = true;
+var result = 10 + 20;
 
-highlight : 柏原プロジェクト
+
+console.log( str1 );
+console.log( str2 );
+console.log( str3 );
+```
+ 柏原プロジェクト
 
 
 ### おわり
