@@ -1,3 +1,5 @@
+#テーマの設定
+theme : sky
 # plen-search
 ### プレンかくれんぼ
 
